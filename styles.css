@@ -1,0 +1,122 @@
+.header {
+  display: block;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.navbar {
+  padding-right: 80px;
+  padding-left: 80px;
+  background-color: transparent;
+}
+.logocurrent {
+  color: #ed3e84;
+  font-size: 26px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.inlineblock {
+  max-width: 100%;
+  display: inline-block;
+}
+.menu-button-container {
+  position: relative;
+  z-index: 2;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 50px;
+  height: 50px;
+  margin-top: 12.5px;
+  float: right;
+}
+.clearfixbefore {
+  content: " ";
+  display: table;
+}
+
+.logo-image {
+  margin-top: 10px;
+  margin-right: 10px;
+  float: left;
+}
+.logo-text {
+  font-family: Montserrat, sans-serif;
+  color: #ed3e84;
+  font-size: 26px;
+  font-weight: 700;
+  float: left;
+}
+h1 {
+  width: 483px;
+  font-family: Montserrat, sans-serif;
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  color: #f36ea9;
+  font-size: 70px;
+  line-height: 75px;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-size: 70px;
+  line-height: 75px;
+  font-weight: 700;
+}
+.colour {
+  color: black;
+  text-transform: capitalize;
+}
+.mainbox {
+  display: block;
+  max-width: 1164px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 80px;
+}
+.mb2 {
+  position: relative;
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.mb3 {
+  margin-left: 20%;
+  margin-top: 5%;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+}
+.heybrain {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.content {
+  display: block;
+  max-width: 1164px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 80px;
+}
+.heybrain {
+  position: relative;
+  float: left;
+  width: 50%;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.boxposition {
+  position: relative;
+  left: 60%;
+}
